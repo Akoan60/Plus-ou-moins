@@ -5,4 +5,4 @@ Point à ameliorer
 
 - gestion des majuscules dans la question du multijoueur
 - gestion des caractères non numerique durant la partie
-- ETC
+- etc...
