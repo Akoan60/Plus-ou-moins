@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Akoan\Dropbox\CompSci\Workspace 3.0\C\Plus ou moins\main.c(31,18): warning C4244:  'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Akoan\Dropbox\CompSci\Workspace 3.0\C\Plus ou moins\main.c(111,11): warning C4098:  'multijoueur': 'void' function returning a value
+  Plus ou moins.vcxproj -> C:\Users\Akoan\Dropbox\CompSci\Workspace 3.0\C\Plus ou moins\Debug\Plus ou moins.exe
